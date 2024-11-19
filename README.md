@@ -18,12 +18,12 @@
 
   <h2>🗂️ Website Sections</h2>
   <ul>
-    <li><strong>Header:</strong> Includes a navigation bar and the website's logo.</li>
-    <li><strong>Hero Section:</strong> Features a headline and captivating background images.</li>
-    <li><strong>Grid Layout Section:</strong> Highlights beautiful properties with a card-style arrangement using the <strong>CSS Grid</strong> layout.</li>
-    <li><strong>Features Section:</strong> Displays the key benefits of Nexter with icons and descriptions.</li>
-    <li><strong>Testimonials:</strong> A customer review section styled with Grid and Flexbox.</li>
-    <li><strong>Footer:</strong> Contains navigation links and legal information.</li>
+    <li><strong>Header:</strong> Includes the site logo and navigation links.</li>
+    <li><strong>Hero Section:</strong> A captivating introduction with a large headline and background image.</li>
+    <li><strong>Property Listings:</strong> Grid-based layout showcasing luxurious homes, each with images, details, and pricing.</li>
+    <li><strong>Features Section:</strong> Highlights the unique selling points of Nexter (e.g., luxury homes, eco-friendly designs).</li>
+    <li><strong>Realtors Section:</strong> Introduces top real estate agents with their names and photos.</li>
+    <li><strong>Footer:</strong> Contains navigation links and contact information.</li>
   </ul>
 
   <hr />
